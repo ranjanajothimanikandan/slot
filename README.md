@@ -30,7 +30,7 @@ Execute the program
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="yellow">
-<caption><b>SLOT TIME TABLE - NAVEENAA (22003091)</b></caption>
+<caption><b>SLOT TIME TABLE - Ranjana(22003817)</b></caption>
 <tr align="center">
 <th bgcolor="green">Day/Time</th>
 <th bgcolor="grey">Monday</th>
